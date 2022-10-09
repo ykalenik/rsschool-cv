@@ -10,11 +10,11 @@ My goal is to find an interesting project and apply my skills to make something 
 
 ## Skills
 During my work I had a chance to work with the following technologies:
-* Python 3
-* JavaScript
-* Tailwindcss
-* HTML5
-* CSS3
+
+|   |   |   |
+|---|---|---|
+| ![JavaScript](./assets/img/js-logo.webp) | ![HTML 5](./assets/img/html5-logo.png) | ![CSS 3](./assets/img/css3-logo.png) |
+| ![Tailwindcss](./assets/img/tailwindcss-logo.webp) | ![Python](./assets/img/python-logo.jpg) | ![Git](./assets/img/git-logo.webp) |
 
 ## Experience 
 Websites:
