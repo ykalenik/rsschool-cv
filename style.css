@@ -58,6 +58,11 @@ pre {
     list-style: disc;
 }
 
+.github-footer-icon {
+    width: 50px;
+    height: 50px;
+}
+
 .contacts {
     padding-top: 20px;
 }
@@ -119,7 +124,6 @@ pre {
 }
 
 .rs-school {
-    display: flex;
     width: 100px;
     height: 50px;
 }
